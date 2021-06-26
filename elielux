@@ -1,0 +1,68 @@
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14032.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14034.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14031.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CINE", Max
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14292.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14018.m3u8
+#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/EUROPA-EUROPA.png" group-title="CINE", Europa Europa
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14327.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CINE", Film & Arts
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11262.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://158.69.199.207/LIVE/H02/WARNER/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1, fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0,FOX Life
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20808.m3u8
+#EXTINF:0,FX Latino
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20813.m3u8
+#EXTINF:0,Golden Premier Latino America
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20775.m3u8
+#EXTINF:0,HBO 2 SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20816.m3u8
+#EXTINF:0,HBO Family SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20817.m3u8
+#EXTINF:0,HBO Plus Este
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20819.m3u8
+#EXTINF:0,HBO SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20818.m3u8
+#EXTINF:0,MultiPremier
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20830.m3u8
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="USA | A&E HD" tvg-logo="https://static.iptv-epg.com/us/AandE.us.png" group-title="USA CHANNELS",USA | A&E HD
+http://hoiplaytv.ddns.net:8080/allan/allan/246
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="USA | BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="USA CHANNELS",USA | BBC America HD
+http://hoiplaytv.ddns.net:8080/allan/allan/241
+#EXTINF:-1 tvg-id="BetHer.us" tvg-name="USA | BET HER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/250px-BET_Logo.svg.png" group-title="USA CHANNELS",USA | BET HER
+http://hoiplaytv.ddns.net:8080/allan/allan/83
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="USA | BLOOMBERG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="USA CHANNELS",USA | BLOOMBERG HD
+http://hoiplaytv.ddns.net:8080/allan/allan/239
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="USA | BOOMERANG HD" tvg-logo="http://192.99.100.74:8080/logos/1885.png" group-title="KIDS",USA | BOOMERANG HD
+http://hoiplaytv.ddns.net:8080/allan/allan/180
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="USA | CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/150px-Cartoon_Network_logo.svg.png" group-title="KIDS",USA | CARTOON NETWORK
+http://hoiplaytv.ddns.net:8080/allan/allan/233
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cbn-logo-new.jpg/200px-Cbn-logo-new.jpg" group-title="USA CHANNELS",USA | CBN HD
+http://hoiplaytv.ddns.net:8080/allan/allan/232
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="USA | CINEMAX HD" tvg-logo="http://192.99.100.74:8080/logos/539.png" group-title="ENTERTAINMENT ENG",USA | CINEMAX HD
+http://hoiplaytv.ddns.net:8080/allan/allan/229
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="USA | CINEMAX MOREMAX HD" tvg-logo="http://192.99.100.74:8080/logos/539.png" group-title="ENTERTAINMENT ENG",USA | CINEMAX MOREMAX HD
+http://hoiplaytv.ddns.net:8080/allan/allan/228
+#EXTINF:-1 tvg-id="ThrillerMax.us" tvg-name="USA | CINEMAX THRILLERMAX HD" tvg-logo="http://192.99.100.74:8080/logos/539.png" group-title="ENTERTAINMENT ENG",USA | CINEMAX THRILLERMAX HD
+http://hoiplaytv.ddns.net:8080/allan/allan/227
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA | CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/175px-CMT_2017.png" group-title="USA CHANNELS",USA | CMT HD
+http://hoiplaytv.ddns.net:8080/allan/allan/179
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="USA | CNBC HD" tvg-logo="http://192.99.100.74:8080/logos/1765.png" group-title="USA CHANNELS",USA | CNBC HD
+http://hoiplaytv.ddns.net:8080/allan/allan/170
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="USA | CNN" tvg-logo="http://192.99.100.74:8080/logos/10.png" group-title="USA CHANNELS",USA | CNN
+http://hoiplaytv.ddns.net:8080/allan/allan/98
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="USA | CNN HD" tvg-logo="http://192.99.100.74:8080/logos/10.png" group-title="NEWS CHANNELS",USA | CNN HD
+http://hoiplaytv.ddns.net:8080/allan/allan/157
